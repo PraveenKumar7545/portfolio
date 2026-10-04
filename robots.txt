@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://praveenkumar7545.github.io/portfolio/sitemap.xml
