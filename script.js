@@ -4,7 +4,7 @@
 
 // ==========================================
 // EMAILJS CONFIG
-// ==========================================
+// ========================================== 
 const EMAILJS_PUBLIC_KEY = "I1ZW9am3yBcdX0ez-";
 const EMAILJS_SERVICE_ID = "service_sq5bi08";
 const EMAILJS_TEMPLATE_ID = "template_z6ijerv";
